@@ -6,5 +6,12 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <color name="backgroundColor">#303030</color>
+    <color name="cardbackground">#424242</color>
+    <color name="textcolor">#ffffff</color>
+    <color name="tintcolor">#ffffff</color>
+    <color name="buttoncolor">#2196F3</color>
+
+
 </resources>
